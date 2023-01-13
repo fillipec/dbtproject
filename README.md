@@ -1,2 +1,2 @@
 # dbtproject
-Modelo utilizando a base de dados Northwind
+Modelo utilizando Dbtcloud para transformar dados da base exemplo Northwind
