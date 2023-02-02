@@ -11,14 +11,14 @@ fonte: https://en.wikiversity.org/wiki/Database_Examples/Northwind
 
 Qual o objetivo de ter feito esse projeto?
 
-  1 - Utilizar o Redshift, a mais importante ferramenta de Datawarehouse (AWS);
-  2 - Criar um modelo de transformação para remover duplicados;
-  3 - Criar um modelo com campos cálculados;
-  4 - Desnormalizar tabelas, criando uma tabela Fato;
-  5 - Criar modelos de particionamento de dados;
-  6 - Criar testes unitários no projeto;
-  7 - Criar hooks, que são funções que são executadas antes ou depois da criação de um modelo;
-  8 - Produzir documentação do projeto.
+  1 - Utilizar o Redshift, a mais importante ferramenta de Datawarehouse (AWS); <br>
+  2 - Criar um modelo de transformação para remover duplicados; <br>
+  3 - Criar um modelo com campos cálculados; <br>
+  4 - Desnormalizar tabelas, criando uma tabela Fato; <br>
+  5 - Criar modelos de particionamento de dados; <br>
+  6 - Criar testes unitários no projeto; <br>
+  7 - Criar hooks, que são funções que são executadas antes ou depois da criação de um modelo; <br>
+  8 - Produzir documentação do projeto.<br>
 
 Segue o diagrama da primeira versão do projeto:
 ![image](https://user-images.githubusercontent.com/16392877/216202394-4493c7c5-d00d-4e6a-b859-ada02e6f510f.png)
